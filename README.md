@@ -1,4 +1,4 @@
-![Industry Academia Conclave Poster](./Flower%20Page%20Border%20A3%20Landscape%20Poster.png)
+![Industry Academia Conclave Poster](/Flower%20Page%20Border%20A3%20Landscape%20Poster.png)
 
 # RadioAgent 🩺: AI-Powered Radiological Analysis
 
