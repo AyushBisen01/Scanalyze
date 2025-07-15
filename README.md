@@ -1,7 +1,43 @@
+![Industry Academia Conclave Poster](./Flower%20Page%20Border%20A3%20Landscape%20Poster.png)
 
 # RadioAgent 🩺: AI-Powered Radiological Analysis
 
 **RadioAgent** is an advanced clinical decision support system designed to empower radiologists and healthcare professionals. Built with Next.js and Google's Genkit, this application leverages cutting-edge generative AI to analyze medical images (X-rays, CT scans, MRIs), generate detailed diagnostic reports, and provide interactive, explainable insights to improve patient outcomes.
+
+---
+
+## 🏆 Industry Academia Conclave 2.0: Radiology AI System
+
+### Solution/Features
+1. **Diagnostic Insights**: Identifies and ranks findings with confidence scores.
+2. **Anomaly Localization**: Highlights abnormal regions using explainable AI.
+3. **Clinical Segmentation**: Marks affected areas for clearer interpretation.
+4. **Automated Reporting**: Creates structured, accessible diagnostic reports, prioritizing critical cases.
+5. **Symptom Correlation**: Links symptoms with imaging for better context.
+6. **Cognitive Assistant**: Provides real-time support and diagnosis suggestions.
+7. **Secure Report Mailing (USP)**: Sends encrypted reports via email for clarity and compliance.
+
+### Tech Stack
+- **Frontend Frameworks / Libraries**: React.js, Next.js
+- **Programming Languages**: JavaScript, TypeScript
+- **Styling / UI Utilities**: Tailwind CSS, ECMAScript (ES)
+- **AI / Media Platforms**: MedGamma, MedSAM, KeyBERT
+- **APIs & Services**: Hugging Face Transformers, NCBI Entrez (PubMed)
+
+### Workflow
+1. **Input Phase**: Upload medical DICOM images/videos (Radiology, Dermatology, Digital Pathology, Ophthalmology)
+2. **AI Processing Phase**:
+   - KeyBERT: Extraction of clinical keywords
+   - MedSAM: Segmentation of regions of interest
+   - Entrez API: Lookup of PubMed articles based on keywords
+   - MedGemma: Automated generation of radiology reports (image → text)
+3. **Output Phase**: Segmentation viewer, clinical report, case summary, clinical email
+
+### Team Members
+- Abha Dhandre
+- Vedanti Adhe
+- Ayush Bisen
+- Animesh Tajne
 
 ---
 
